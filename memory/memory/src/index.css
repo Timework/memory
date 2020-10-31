@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.picture {
+  width: 100%;
+}
+
+.boxGrid {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  column-gap: 10px;
+}
+
+.holoname {
+  text-align: center;
+  font: 32px;
+}
+
+h1{
+  text-align: center;
+}
+
+.scoreboard {
+  text-align: center;
+}
